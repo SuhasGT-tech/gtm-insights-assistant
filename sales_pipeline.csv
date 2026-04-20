@@ -1,0 +1,201 @@
+Deal_ID,Region,Sales_Rep,Product,Stage,Deal_Value_USD,Win_Probability_Pct,Days_In_Pipeline
+1,North,Carol,Product C,Prospecting,28264.73,10,22
+2,North,Eva,Product C,Closed Lost,13259.19,0,59
+3,North,Bob,Product A,Prospecting,27102.78,10,82
+4,North,Frank,Product A,Closed Won,66739.02,100,74
+5,West,Eva,Product B,Qualified,31428.12,30,116
+6,North,David,Product C,Qualified,37323.8,30,24
+7,South,Alice,Product A,Proposal,41093.09,50,50
+8,East,Alice,Product B,Closed Won,74324.52,100,73
+9,North,Eva,Product A,Negotiation,32851.94,75,85
+10,East,Frank,Product A,Closed Won,11607.74,100,89
+11,South,Bob,Product A,Proposal,87315.95,50,53
+12,East,Carol,Product C,Negotiation,20452.14,75,50
+13,South,Frank,Product B,Closed Lost,93982.19,0,87
+14,North,Bob,Product C,Closed Won,55743.29,100,36
+15,South,Carol,Product B,Negotiation,99004.72,75,86
+16,South,Alice,Product B,Closed Lost,26759.57,0,9
+17,East,Alice,Product B,Negotiation,25043.37,75,77
+18,East,David,Product C,Qualified,42585.03,30,87
+19,West,Bob,Product B,Qualified,28429.61,30,76
+20,East,David,Product C,Closed Lost,90293.17,0,56
+21,East,Eva,Product A,Qualified,51884.0,30,101
+22,North,Frank,Product A,Prospecting,20198.29,10,92
+23,West,David,Product A,Closed Won,41253.83,100,64
+24,East,Frank,Product A,Closed Won,73468.57,100,92
+25,East,Alice,Product B,Closed Lost,32882.51,0,25
+26,West,Frank,Product C,Prospecting,30021.96,10,69
+27,South,Frank,Product A,Closed Won,33352.26,100,86
+28,South,Bob,Product B,Qualified,56241.01,30,104
+29,North,David,Product B,Closed Won,6850.29,100,51
+30,East,Bob,Product A,Qualified,88410.91,30,15
+31,North,Alice,Product B,Closed Lost,97908.53,0,73
+32,South,David,Product C,Qualified,94950.62,30,26
+33,East,David,Product C,Closed Won,96614.48,100,74
+34,South,David,Product B,Closed Lost,99539.19,0,88
+35,East,David,Product C,Negotiation,16495.4,75,33
+36,North,Eva,Product A,Proposal,57622.54,50,80
+37,South,Frank,Product A,Prospecting,64954.78,10,34
+38,North,Alice,Product B,Prospecting,53844.83,10,40
+39,West,Bob,Product C,Qualified,73718.49,30,117
+40,West,David,Product B,Qualified,23088.94,30,17
+41,West,David,Product B,Proposal,49367.34,50,98
+42,North,Frank,Product C,Closed Lost,14349.7,0,56
+43,East,Bob,Product A,Prospecting,23069.85,10,62
+44,South,Carol,Product A,Negotiation,48949.67,75,116
+45,North,Alice,Product C,Negotiation,9805.89,75,74
+46,North,Bob,Product A,Prospecting,43609.34,10,66
+47,South,Bob,Product A,Negotiation,41002.45,75,54
+48,East,David,Product B,Negotiation,71176.19,75,98
+49,West,Carol,Product A,Qualified,25681.59,30,12
+50,North,Alice,Product B,Closed Lost,9763.52,0,66
+51,South,Alice,Product C,Prospecting,85877.54,10,13
+52,North,David,Product A,Closed Lost,16389.23,0,118
+53,South,Alice,Product C,Closed Won,63841.24,100,58
+54,East,Frank,Product A,Proposal,73038.22,50,35
+55,East,Frank,Product A,Negotiation,66322.57,75,63
+56,East,David,Product A,Prospecting,64010.13,10,77
+57,North,Bob,Product C,Prospecting,53059.05,10,21
+58,East,Carol,Product A,Prospecting,32073.8,10,61
+59,East,Eva,Product C,Closed Won,5743.2,100,109
+60,East,Bob,Product A,Closed Lost,30124.26,0,118
+61,North,Bob,Product C,Closed Lost,30873.08,0,82
+62,South,Bob,Product B,Closed Lost,70312.23,0,114
+63,East,Carol,Product B,Closed Won,91006.97,100,113
+64,North,David,Product C,Prospecting,83788.07,10,10
+65,North,Frank,Product A,Proposal,98080.81,50,25
+66,West,David,Product C,Closed Won,58286.15,100,19
+67,North,Eva,Product A,Closed Lost,8422.67,0,52
+68,South,Alice,Product A,Negotiation,34284.54,75,120
+69,North,Frank,Product A,Proposal,28705.33,50,18
+70,East,Eva,Product B,Closed Won,76200.37,100,35
+71,South,Alice,Product B,Qualified,22039.26,30,47
+72,West,Bob,Product C,Closed Lost,30346.54,0,105
+73,North,David,Product A,Negotiation,26131.2,75,109
+74,West,Bob,Product B,Proposal,26177.74,50,89
+75,South,Carol,Product B,Negotiation,87113.53,75,103
+76,East,Eva,Product C,Proposal,42969.45,50,112
+77,East,Carol,Product A,Prospecting,21963.94,10,38
+78,North,David,Product C,Prospecting,37840.28,10,105
+79,East,Eva,Product C,Negotiation,15986.35,75,120
+80,South,Frank,Product A,Proposal,46425.46,50,71
+81,South,Alice,Product B,Proposal,95143.08,50,47
+82,East,Frank,Product A,Closed Lost,90504.45,0,69
+83,East,Carol,Product B,Closed Lost,43228.04,0,42
+84,South,Frank,Product B,Qualified,94334.55,30,91
+85,South,Carol,Product C,Closed Won,43577.14,100,111
+86,North,Bob,Product B,Proposal,45839.37,50,79
+87,East,David,Product B,Negotiation,69184.59,75,70
+88,West,Frank,Product A,Closed Lost,13055.58,0,70
+89,East,Frank,Product A,Prospecting,34489.85,10,108
+90,South,Alice,Product A,Qualified,28260.04,30,65
+91,North,Frank,Product B,Negotiation,59688.74,75,96
+92,West,Bob,Product B,Negotiation,19019.28,75,93
+93,North,Bob,Product B,Prospecting,21709.23,10,94
+94,West,Bob,Product C,Prospecting,92159.65,10,20
+95,West,Frank,Product B,Qualified,55457.53,30,76
+96,East,Frank,Product C,Negotiation,89741.93,75,59
+97,West,David,Product C,Qualified,47756.63,30,101
+98,South,Eva,Product B,Closed Lost,51036.72,0,35
+99,East,Frank,Product A,Negotiation,32144.17,75,39
+100,East,Alice,Product C,Proposal,18145.54,50,34
+101,West,Frank,Product A,Closed Lost,25325.52,0,58
+102,West,David,Product C,Proposal,44498.55,50,31
+103,West,Frank,Product C,Negotiation,6855.54,75,117
+104,West,Carol,Product A,Negotiation,33368.2,75,54
+105,West,Frank,Product C,Closed Won,56882.57,100,82
+106,South,Carol,Product A,Negotiation,46404.42,75,8
+107,West,Frank,Product C,Proposal,80823.52,50,97
+108,South,Eva,Product A,Negotiation,55741.74,75,55
+109,North,David,Product C,Prospecting,17891.45,10,64
+110,South,David,Product B,Prospecting,36098.5,10,63
+111,East,Carol,Product B,Proposal,76440.93,50,111
+112,West,David,Product A,Proposal,6841.41,50,74
+113,North,Frank,Product A,Proposal,11518.75,50,88
+114,North,Bob,Product A,Prospecting,84726.74,10,84
+115,South,David,Product A,Qualified,68598.59,30,77
+116,South,Carol,Product C,Negotiation,77855.32,75,26
+117,North,Alice,Product B,Qualified,59975.05,30,44
+118,West,Bob,Product C,Negotiation,12219.67,75,93
+119,South,Carol,Product C,Prospecting,85777.86,10,81
+120,North,Carol,Product A,Closed Won,55610.8,100,89
+121,East,Frank,Product C,Prospecting,37416.96,10,113
+122,West,David,Product A,Negotiation,96274.82,75,86
+123,West,David,Product A,Closed Lost,21733.01,0,71
+124,East,David,Product C,Closed Won,49163.01,100,110
+125,East,Alice,Product A,Proposal,31498.18,50,62
+126,South,Eva,Product C,Negotiation,68477.9,75,48
+127,North,Bob,Product B,Negotiation,51317.24,75,50
+128,East,Eva,Product B,Proposal,71612.46,50,40
+129,North,Alice,Product A,Closed Won,27928.82,100,57
+130,West,Frank,Product A,Closed Won,50228.85,100,96
+131,West,Alice,Product A,Negotiation,32952.38,75,56
+132,South,Eva,Product C,Proposal,40056.94,50,75
+133,East,Eva,Product C,Negotiation,36425.17,75,94
+134,West,Carol,Product B,Proposal,26901.11,50,97
+135,South,Frank,Product A,Proposal,55907.08,50,102
+136,South,Frank,Product A,Qualified,50998.87,30,97
+137,East,Carol,Product A,Prospecting,26610.9,10,27
+138,East,Eva,Product C,Prospecting,17025.38,10,10
+139,North,Frank,Product B,Closed Won,94688.51,100,86
+140,West,Eva,Product A,Prospecting,32012.24,10,66
+141,West,Alice,Product A,Proposal,28985.45,50,115
+142,West,David,Product A,Prospecting,51715.92,10,78
+143,North,Eva,Product A,Qualified,95166.94,30,15
+144,South,David,Product C,Prospecting,62600.18,10,106
+145,South,David,Product B,Closed Won,91307.92,100,43
+146,West,Eva,Product C,Proposal,10721.88,50,99
+147,North,Bob,Product C,Qualified,30141.38,30,15
+148,South,Eva,Product A,Qualified,12131.16,30,5
+149,West,Eva,Product C,Negotiation,49641.69,75,9
+150,South,Carol,Product C,Proposal,71783.82,50,63
+151,North,Carol,Product A,Closed Lost,79843.66,0,85
+152,South,Eva,Product A,Negotiation,26356.9,75,24
+153,East,Alice,Product A,Qualified,20762.66,30,44
+154,East,David,Product A,Negotiation,70424.41,75,94
+155,West,Eva,Product C,Proposal,51910.55,50,15
+156,North,Carol,Product C,Negotiation,62352.8,75,8
+157,North,Eva,Product C,Qualified,60776.68,30,7
+158,East,Bob,Product A,Closed Won,49697.58,100,88
+159,West,Eva,Product A,Proposal,46409.07,50,109
+160,West,Carol,Product B,Prospecting,43793.07,10,46
+161,North,David,Product B,Qualified,70899.0,30,41
+162,West,David,Product A,Closed Won,13365.68,100,37
+163,East,Eva,Product B,Prospecting,83368.08,10,5
+164,West,Bob,Product A,Negotiation,54251.74,75,84
+165,West,Alice,Product B,Closed Lost,24338.03,0,75
+166,South,Frank,Product B,Proposal,51047.62,50,8
+167,South,Carol,Product A,Closed Lost,57329.71,0,75
+168,West,Alice,Product A,Prospecting,48837.55,10,20
+169,South,Carol,Product C,Negotiation,53342.84,75,39
+170,West,Bob,Product B,Negotiation,48394.71,75,23
+171,West,Eva,Product C,Qualified,75897.79,30,22
+172,North,Carol,Product B,Proposal,93753.6,50,69
+173,East,Frank,Product B,Prospecting,33362.81,10,80
+174,West,Eva,Product B,Qualified,51012.43,30,47
+175,West,Bob,Product B,Negotiation,98173.59,75,35
+176,West,Alice,Product B,Qualified,35226.75,30,65
+177,West,Frank,Product C,Negotiation,98177.72,75,68
+178,North,Eva,Product C,Qualified,36539.5,30,17
+179,West,David,Product C,Prospecting,6458.02,10,23
+180,West,Alice,Product A,Closed Lost,49601.61,0,38
+181,East,David,Product C,Closed Won,66734.48,100,114
+182,East,David,Product C,Closed Lost,95643.26,0,85
+183,West,Eva,Product A,Closed Won,11499.97,100,85
+184,East,Alice,Product C,Qualified,46227.29,30,17
+185,North,Frank,Product A,Negotiation,33449.28,75,8
+186,North,Carol,Product A,Proposal,39054.02,50,60
+187,South,David,Product C,Qualified,58763.17,30,106
+188,South,Alice,Product A,Qualified,62901.72,30,53
+189,South,Bob,Product C,Negotiation,27057.9,75,86
+190,East,Frank,Product B,Negotiation,5892.76,75,107
+191,West,Eva,Product C,Proposal,20007.68,50,61
+192,East,Frank,Product B,Closed Won,96392.76,100,93
+193,East,Bob,Product B,Negotiation,99940.49,75,114
+194,West,David,Product A,Prospecting,59332.66,10,78
+195,East,Alice,Product B,Closed Lost,97904.73,0,89
+196,West,Eva,Product A,Proposal,87181.4,50,104
+197,North,David,Product C,Closed Won,84119.7,100,120
+198,East,Carol,Product C,Qualified,25805.43,30,29
+199,East,Frank,Product C,Closed Lost,69681.23,0,22
+200,North,Alice,Product C,Closed Lost,34348.62,0,61
